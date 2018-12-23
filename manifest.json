@@ -18,101 +18,111 @@
             "sizes": "16x16"
         },
         {
-            "src": "https://cdn.jsdelivr.net/gh/vanielf/BlogAHE@2/images/favicon.ico",
+            "src": "https://cdn.jsdelivr.net/gh/vanielf/BlogAHE@3/images/favicon.ico",
             "sizes": "16x16"
         },
         {
-            "src": "https://cdn.jsdelivr.net/gh/vanielf/BlogAHE@2/images/7688d87f-cb94-5cbe-e98b-1688efbc02fb.webPlatform.png",
+            "src": "https://cdn.jsdelivr.net/gh/vanielf/BlogAHE@3/images/favicon-16x16.png",
+            "sizes": "16x16",
+            "type": "image/png"
+        },
+        {
+            "src": "https://cdn.jsdelivr.net/gh/vanielf/BlogAHE@3/images/favicon-32x32.png",
+            "sizes": "32x32",
+            "type": "image/png"
+        },
+        {
+            "src": "https://cdn.jsdelivr.net/gh/vanielf/BlogAHE@3/images/7688d87f-cb94-5cbe-e98b-1688efbc02fb.webPlatform.png",
             "sizes": "44x44",
             "type": "image/png"
         },
         {
-            "src": "https://cdn.jsdelivr.net/gh/vanielf/BlogAHE@2/images/16f7ae2d-14b8-ee9d-0cd8-9b9f1c4ef21b.webPlatform.png",
+            "src": "https://cdn.jsdelivr.net/gh/vanielf/BlogAHE@3/images/16f7ae2d-14b8-ee9d-0cd8-9b9f1c4ef21b.webPlatform.png",
             "sizes": "48x48",
             "type": "image/png"
         },
         {
-            "src": "https://cdn.jsdelivr.net/gh/vanielf/BlogAHE@2/images/76ec8cfc-41c9-2344-8c47-c9ea6b7dbd0a.webPlatform.png",
+            "src": "https://cdn.jsdelivr.net/gh/vanielf/BlogAHE@3/images/76ec8cfc-41c9-2344-8c47-c9ea6b7dbd0a.webPlatform.png",
             "sizes": "1240x600",
             "type": "image/png"
         },
         {
-            "src": "https://cdn.jsdelivr.net/gh/vanielf/BlogAHE@2/images/72ab46d6-7929-4093-240a-7399a2a9e119.webPlatform.png",
+            "src": "https://cdn.jsdelivr.net/gh/vanielf/BlogAHE@3/images/72ab46d6-7929-4093-240a-7399a2a9e119.webPlatform.png",
             "sizes": "300x300",
             "type": "image/png"
         },
         {
-            "src": "https://cdn.jsdelivr.net/gh/vanielf/BlogAHE@2/images/109d788d-92c1-7cb7-6a7b-32fb4cffab4f.webPlatform.png",
+            "src": "https://cdn.jsdelivr.net/gh/vanielf/BlogAHE@3/images/109d788d-92c1-7cb7-6a7b-32fb4cffab4f.webPlatform.png",
             "sizes": "150x150",
             "type": "image/png"
         },
         {
-            "src": "https://cdn.jsdelivr.net/gh/vanielf/BlogAHE@2/images/2917d67c-a129-b3a3-c593-9e132309935e.webPlatform.png",
+            "src": "https://cdn.jsdelivr.net/gh/vanielf/BlogAHE@3/images/2917d67c-a129-b3a3-c593-9e132309935e.webPlatform.png",
             "sizes": "88x88",
             "type": "image/png"
         },
         {
-            "src": "https://cdn.jsdelivr.net/gh/vanielf/BlogAHE@2/images/48a56592-947c-6666-63c5-33017d4e3bad.webPlatform.png",
+            "src": "https://cdn.jsdelivr.net/gh/vanielf/BlogAHE@3/images/48a56592-947c-6666-63c5-33017d4e3bad.webPlatform.png",
             "sizes": "24x24",
             "type": "image/png"
         },
         {
-            "src": "https://cdn.jsdelivr.net/gh/vanielf/BlogAHE@2/images/d1e2c4be-fe71-024e-a4b0-5a570830782f.webPlatform.png",
+            "src": "https://cdn.jsdelivr.net/gh/vanielf/BlogAHE@3/images/d1e2c4be-fe71-024e-a4b0-5a570830782f.webPlatform.png",
             "sizes": "50x50",
             "type": "image/png"
         },
         {
-            "src": "https://cdn.jsdelivr.net/gh/vanielf/BlogAHE@2/images/6c40ed5e-0b24-6456-659d-1817d22c17e0.webPlatform.png",
+            "src": "https://cdn.jsdelivr.net/gh/vanielf/BlogAHE@3/images/6c40ed5e-0b24-6456-659d-1817d22c17e0.webPlatform.png",
             "sizes": "620x300",
             "type": "image/png"
         },
         {
-            "src": "https://cdn.jsdelivr.net/gh/vanielf/BlogAHE@2/images/ac4105f6-ea74-1aa0-12cf-0993efab633f.webPlatform.png",
+            "src": "https://cdn.jsdelivr.net/gh/vanielf/BlogAHE@3/images/ac4105f6-ea74-1aa0-12cf-0993efab633f.webPlatform.png",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "https://cdn.jsdelivr.net/gh/vanielf/BlogAHE@2/images/702acd38-0f99-3063-5481-c428d1b8e5f2.webPlatform.png",
+            "src": "https://cdn.jsdelivr.net/gh/vanielf/BlogAHE@3/images/702acd38-0f99-3063-5481-c428d1b8e5f2.webPlatform.png",
             "sizes": "144x144",
             "type": "image/png"
         },
         {
-            "src": "https://cdn.jsdelivr.net/gh/vanielf/BlogAHE@2/images/0199a794-37a6-1579-3d2a-b16cff3467e1.webPlatform.png",
+            "src": "https://cdn.jsdelivr.net/gh/vanielf/BlogAHE@3/images/0199a794-37a6-1579-3d2a-b16cff3467e1.webPlatform.png",
             "sizes": "96x96",
             "type": "image/png"
         },
         {
-            "src": "https://cdn.jsdelivr.net/gh/vanielf/BlogAHE@2/images/5d3d3da0-fefe-897b-cfb5-68f641542b2d.webPlatform.png",
+            "src": "https://cdn.jsdelivr.net/gh/vanielf/BlogAHE@3/images/5d3d3da0-fefe-897b-cfb5-68f641542b2d.webPlatform.png",
             "sizes": "72x72",
             "type": "image/png"
         },
         {
-            "src": "https://cdn.jsdelivr.net/gh/vanielf/BlogAHE@2/images/0ff1beac-b832-39b0-4a2c-8cf2b4253468.webPlatform.png",
+            "src": "https://cdn.jsdelivr.net/gh/vanielf/BlogAHE@3/images/0ff1beac-b832-39b0-4a2c-8cf2b4253468.webPlatform.png",
             "sizes": "36x36",
             "type": "image/png"
         },
         {
-            "src": "https://cdn.jsdelivr.net/gh/vanielf/BlogAHE@2/images/e5d3ac48-6c35-983a-1cf3-08a3032c9090.webPlatform.png",
+            "src": "https://cdn.jsdelivr.net/gh/vanielf/BlogAHE@3/images/e5d3ac48-6c35-983a-1cf3-08a3032c9090.webPlatform.png",
             "sizes": "1024x1024",
             "type": "image/png"
         },
         {
-            "src": "https://cdn.jsdelivr.net/gh/vanielf/BlogAHE@2/images/d676ddbf-1bd9-175f-c367-b86ab6ffbaea.webPlatform.png",
+            "src": "https://cdn.jsdelivr.net/gh/vanielf/BlogAHE@3/images/d676ddbf-1bd9-175f-c367-b86ab6ffbaea.webPlatform.png",
             "sizes": "180x180",
             "type": "image/png"
         },
         {
-            "src": "https://cdn.jsdelivr.net/gh/vanielf/BlogAHE@2/images/983265df-44a7-bb0d-b28a-10344642875d.webPlatform.png",
+            "src": "https://cdn.jsdelivr.net/gh/vanielf/BlogAHE@3/images/983265df-44a7-bb0d-b28a-10344642875d.webPlatform.png",
             "sizes": "152x152",
             "type": "image/png"
         },
         {
-            "src": "https://cdn.jsdelivr.net/gh/vanielf/BlogAHE@2/images/6cbb96ed-924d-f6e8-7825-ceef276e3116.webPlatform.png",
+            "src": "https://cdn.jsdelivr.net/gh/vanielf/BlogAHE@3/images/6cbb96ed-924d-f6e8-7825-ceef276e3116.webPlatform.png",
             "sizes": "120x120",
             "type": "image/png"
         },
         {
-            "src": "https://cdn.jsdelivr.net/gh/vanielf/BlogAHE@2/images/bf9d8dc0-ae2b-5edc-b817-a6e02311c955.webPlatform.png",
+            "src": "https://cdn.jsdelivr.net/gh/vanielf/BlogAHE@3/images/bf9d8dc0-ae2b-5edc-b817-a6e02311c955.webPlatform.png",
             "sizes": "76x76",
             "type": "image/png"
         }
